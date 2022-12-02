@@ -1,3 +1,4 @@
+![logo](https://github.com/Paritosh25102000/Paritosh25102000/blob/main/Screenshot%20(152).png)
 <h1 align="center">Hi 👋, I'm Paritosh Raikar</h1>
 <h3 align="center">A passionate data scientist from India</h3>
 
